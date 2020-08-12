@@ -5,7 +5,7 @@
 Original [CSV Table](https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv)
 
 
-The CSV file had a lot of leagues including second division teams. However I wanted to look at the teams from first-division teams in Europe as well as the EUFA Champions Europa League.
+The CSV file had a lot of leagues including second division teams. However I wanted to look at the teams from first-division teams in Europe as well as the EUFA Champions.
 
 These Leagues and their id's are
 * French Ligue 1-1843
@@ -26,7 +26,7 @@ These Leagues and their id's are
 * Swiss Raiffeisen Super League-1879
 * Turkish Turkcell Super Lig-1882
 * UEFA Champions League-1818
-* UEFA Europa league-1820
+
 
 In order to get all of these I placed the filter on the sheet and selected all of the leagues shown above. 
 
@@ -241,8 +241,11 @@ There are currently 8 teams and their latest SP1:
 The Next Matches are:
 
 Paris Saint-Germaine vs Atlanta with a 37% chance of victory for Atlanta and 63% for Paris 
+
 RB Leipzig vs Atletico Madrid with a 52% chance of victory for Leipzig and 48% for A.Madrid
-Barcelona vs Bayern Munich with a 39% for Barcelona and  61% for Bayern Munich\
+
+Barcelona vs Bayern Munich with a 39% for Barcelona and  61% for Bayern Munich
+
 Manchester city. vs Lyon with a 89% chance of victory for Manchester city and 11% for Lyon
 
 Here are my predictions based on the Data:
