@@ -147,7 +147,12 @@ Gping abck to Juventus I wanted to see the probabilities the team had against wi
 
 
 Round2/Team2
+
+
+
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiC-ACgKMoP_F_s6G4qsrEmg-ztZTvMurcPJRWOP_D5F4-U_1n0mONvhlkkZnyQYtuXKDXm3DHUxTP/pubchart?oid=447013368&amp;format=interactive"></iframe>
+
 
 
 #### IMPORTANT GAMES
