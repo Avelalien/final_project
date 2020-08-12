@@ -75,7 +75,7 @@ This was the result for the maximum goals scored in one game through seasons 201
 </script>
 
 
-*Note Russia could not be added but they had the maximum gaols in a single match with 11 
+*Note Russia could not be added but they had the maximum goals in a single match with 11 
 
 
 
