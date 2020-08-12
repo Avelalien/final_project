@@ -52,7 +52,7 @@ SUM=(Q1,R2)
 ```
 I then made the column give me the highest value. 
 
-To get a closer look at the goal statistics I created a pivot table that the total number of goals scored in the leagues (this excluded the Champions and Europa Legue), the avaergae and the Max in one game. 
+To get a closer look at the goal statistics I created a pivot table that the total number of goals scored in the leagues (this excluded the Champions and Europa Legue), the average and the Max in one game. 
 
 *Table with all of the values*
 
@@ -149,10 +149,7 @@ Gping abck to Juventus I wanted to see the probabilities the team had against wi
 Round2/Team2
 
 
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiC-ACgKMoP_F_s6G4qsrEmg-ztZTvMurcPJRWOP_D5F4-U_1n0mONvhlkkZnyQYtuXKDXm3DHUxTP/pubchart?oid=447013368&amp;format=interactive"></iframe>
-
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiC-ACgKMoP_F_s6G4qsrEmg-ztZTvMurcPJRWOP_D5F4-U_1n0mONvhlkkZnyQYtuXKDXm3DHUxTP/pubchart?oid=610888918&amp;format=interactive"></iframe>
 
 
 #### IMPORTANT GAMES
