@@ -83,6 +83,7 @@ This was the result for the maximum goals scored in one game through seasons 201
 *Note Russia could not be added but they had the maximum gaols in a single match with 11 
 
 
+
 With this data we have a better Idea of the Goal Data among the European League throughout the 5 seasons. However its importnat to note that not all of the leagues were accounted for every year. So the Sum of leagues is not the best Data. From all the games documented in each league for the 5 seasons (if the legue is recorded) the goal average per game is shown in the data. And from all of the games documented during the 5 seasons the highest score was 11 goals. 
 
 ### Italia Seria A Stats
@@ -171,10 +172,97 @@ From the result we can see that Juventus was first place, and Atlanta came in at
 
 
 
-
-
-
 ### Champions League
+
+Now I will be analyzing the Champions League of 2019/2020. 
+
+First I want to see what League has the highest SPI for the 2019-2020
+
+#### Best League
+
+So basically we know that the higher the SPI the team has the better it is prepared before the match. So  The higher the SPI is in the league the better/competive the league is becasue it has better prepared teams. 
+
+I created a pivot table which gave me the average of SPI 1 and SPI 2. However I wanted to get the overall SPI of the league.
+
+*Note In leagues teams have home and away games which stand for Team 1 and Team 2. So SPI 1 only take sin account the games played in the first match. That is why they must be united. However the SPI is almost identical on both since they are the same teams and not many major changes happen within the season. 
+
+So I made the Formula 
+
+```
+Sum(B1,C2)/2
+```
+
+The result was:
+
+![Table](https://media.journalism.berkeley.edu/upload/2020/08/15972073395107cfa.png)
+
+England had the highest overall SPI with 74.38
+
+*Note this does not mean that England has the best team. They could have multiple 80 SPI team while Spain has a 90 SPI but teams with a lower SPI that reduce the average lower than Englands. 
+
+<iframe title="[ Average SPI per League ]" aria-label="map" id="datawrapper-chart-10gKL" src="https://datawrapper.dwcdn.net/10gKL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="583"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+Now Back to the Champions League.
+
+*Note due to COVID-19 the Final results of season 2019-2020 have not been finalized
+
+First i want to see if the Champions league is holding up to its standards.
+
+I followed the same process I did for the league except the only Row I made for my Pivot Table was UEFA Champions League.
+
+As expected the Total was higher = 79
+
+Therefore Champions league has better prepared teams than any of the other Leagues based on their SPI score. This of course is expected since only the highest ranking teams from each league qualify to go to the Champions league.
+
+#### Who will win?
+
+Becasuse of COVID-19 THe Champions League tournament had to shutdown in march and started back up in August. 
+Last week they finished The first round of eliminations. 
+And based on all my exploration in this project I want to make a guess on who has the most chances of winning. 
+
+First I will organize the table in a chronological order.
+
+In the next for days the quarter finals will take place. 
+
+There are currently 8 teams and their latest SP1:
+
+* Atlanta 82.56
+* RB Leipzig 85.75
+* Barcelona 90.54
+* Manchester City 95.59
+* Paris Saint-Germaine 89.15
+* Atletico Madrid 85.54
+* Bayern Munich 94.42
+* Lyon 72.9
+
+*note values are rounded
+The Next Matches are:
+
+Paris Saint-Germaine vs Atlanta with a 37% chance of victory for Atlanta and 63% for Paris 
+RB Leipzig vs Atletico Madrid with a 52% chance of victory for Leipzig and 48% for A.Madrid
+Barcelona vs Bayern Munich with a 39% for Barcelona and  61% for Bayern Munich\
+Manchester city. vs Lyon with a 89% chance of victory for Manchester city and 11% for Lyon
+
+Here are my predictions based on the Data:
+
+##### SemiFinals
+Paris Saint Germaine vs RB Leipzig
+
+Bayern Munich vs Manchester City
+
+##### Finals
+
+Paris Saint Germaine vs Manchester City
+
+##### Winner
+
+Manchester City
+
+Keep in mind that these are predictions based on prerecorded stats but anything can happen. 
+
+### GO BARCELONA
 
 
 
