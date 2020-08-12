@@ -142,7 +142,7 @@ Going back to Juventus I wanted to see the probabilities the team had against wi
 
 I looked at Juventus probablities as Team 2.
 
-*Note since they are the away games the SPI is almost identical since major changes within the club rarely happen.
+*Note since they are the away games the SPI is almost identical since major changes within the club rarely happen during 1 season.
 
 
 
