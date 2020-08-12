@@ -164,7 +164,7 @@ So what can we take out of this data analysis.
 
 To see how the data worked with the actual result here is the final legue result. 
 
-![TABLE 2019/202](https://www.skysports.com/serie-a-table)
+[TABLE 2019/202](https://www.skysports.com/serie-a-table)
 
 From the result we can see that Juventus was first place, and Atlanta came in at third, however Napoli came in at 7. Brescia came in second to last after Spal however they along with lecce were in the bottom 3.
 
