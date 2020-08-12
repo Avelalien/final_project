@@ -142,7 +142,8 @@ This was the result
 Turns out that the team with te worst SPI was Brescia, followed by Lecce and Spal. All three show up on the table below. If we continue to scroll down the other teams named also start to show up. 
 While there is no correlation from looking at the highest probablity of a team winning, if you look at the teams they will be up against we can get an idea of the worst teams in the league. 
 
-Gping abck to Juventus I wanted to see the probabilities the team had against winning against other Teams
+Gping abck to Juventus I wanted to see the probabilities the team had against winning against other Teams,
+I looked at Juventus probablities as Team 2.
 
 
 
@@ -152,7 +153,24 @@ Round2/Team2
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRiC-ACgKMoP_F_s6G4qsrEmg-ztZTvMurcPJRWOP_D5F4-U_1n0mONvhlkkZnyQYtuXKDXm3DHUxTP/pubchart?oid=610888918&amp;format=interactive"></iframe>
 
 
-#### IMPORTANT GAMES
+What can be seen from the graph is that teams that have lower SPI give Juventus a higher probablity while the teams with higher SPI give Juventus a lower chance of winning. 
+
+So what can we take out of this data analysis. 
+
+* Juventus is the strongest team fllowed by Atlanta and Napoli according to SPI stats
+* Brescia is the lesser team followed by Lecce and Spal according to SPI stats
+* The Lower the SPI the easier for Juventus to defeat the higher the SPI the possibilities of winning for Juventus go down.
+
+
+To see how the data worked with the actual result here is the final legue result. 
+
+![TABLE 2019/202](https://www.skysports.com/serie-a-table)
+
+From the result we can see that Juventus was first place, and Atlanta came in at third, however Napoli came in at 7. Brescia came in second to last after Spal however they along with lecce were in the bottom 3.
+
+
+
+
 
 
 
