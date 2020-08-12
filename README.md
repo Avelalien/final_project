@@ -2,6 +2,7 @@
 
 ## By Arianna Velasco
 
+I got my data from FiveThirtyEight, under Club Soccer Predictions. It has an info button which explains how the data labels work and it has a download button where you can download the csv file.
 Original [CSV Table](https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv)
 
 
@@ -43,7 +44,7 @@ The Data also held the data on different season which run from Fall to Spring of
 
 To get myself accostumed to the data I decided to run a couple of tests with all of the data of European Legues throughout the 5 seasons presented. 
 
-One of The first things that I wanted to discover what match had the most goals in all of Europe.
+One of The first things that I wanted to discover was what match had the most goals in all of Europe.
 
 To get this information I created a new pillar named "Game with Highest Goals" with a sum formula.
 
@@ -52,7 +53,7 @@ SUM=(Q1,R2)
 ```
 I then made the column give me the highest value. 
 
-To get a closer look at the goal statistics I created a pivot table that the total number of goals scored in the leagues (this excluded the Champions and Europa Legue), the average and the Max in one game. 
+To get a closer look at the goal statistics I created a pivot table that the total number of goals scored in the leagues (this excluded the Champions League), the average and the Max in one game. 
 
 *Table with all of the values*
 
@@ -110,7 +111,7 @@ I then looked at column Prob 1 which is the probablity that team 1 would win. I 
 
 *I look at the top 20 spots
 
-The result is similar to the tables before however we see more of Atlanta and Napoli as well as Internazionale. However What I found out when looking at the Team 2 column is that the a couple teams showed up at least more than two times.
+The result is similar to the tables before however we see more of Atlanta and Napoli as well as Internazionale. However what I found out when looking at the Team 2 column is that the a couple teams showed up at least more than two times.
 
 * Verona
 * Brescia
@@ -143,8 +144,11 @@ This was the result
 Turns out that the team with te worst SPI was Brescia, followed by Lecce and Spal. All three show up on the table below. If we continue to scroll down the other teams named also start to show up. 
 While there is no correlation from looking at the highest probablity of a team winning, if you look at the teams they will be up against we can get an idea of the worst teams in the league. 
 
-Gping abck to Juventus I wanted to see the probabilities the team had against winning against other Teams,
+Going back to Juventus I wanted to see the probabilities the team had against winning against other Teams.
+
 I looked at Juventus probablities as Team 2.
+
+*Note since they are the away games the SPI is almost identical since major changes within the club rarely happen.
 
 
 
@@ -212,7 +216,7 @@ First i want to see if the Champions league is holding up to its standards.
 
 I followed the same process I did for the league except the only Row I made for my Pivot Table was UEFA Champions League.
 
-As expected the Total was higher = 79
+As expected the total was higher = 79
 
 Therefore Champions league has better prepared teams than any of the other Leagues based on their SPI score. This of course is expected since only the highest ranking teams from each league qualify to go to the Champions league.
 
@@ -248,7 +252,7 @@ Barcelona vs Bayern Munich with a 39% for Barcelona and  61% for Bayern Munich
 
 Manchester city. vs Lyon with a 89% chance of victory for Manchester city and 11% for Lyon
 
-Here are my predictions based on the Data:
+Here are my predictions based on the data:
 
 ##### SemiFinals
 Paris Saint Germaine vs RB Leipzig
@@ -265,7 +269,7 @@ Manchester City
 
 Keep in mind that these are predictions based on prerecorded stats but anything can happen. 
 
-### GO BARCELONA
+### GO BARCELONA!
 
 
 
