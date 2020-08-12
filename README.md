@@ -59,14 +59,8 @@ To get a closer look at the goal statistics I created a pivot table that the tot
 
 ![Table](https://media.journalism.berkeley.edu/upload/2020/08/1597090236ca9f254.png)
 
-This was the result for the total goals in the leagues through the seasons 2016-2020
 
-<iframe title="[ Total Goals in league from 2016 to 2020 Season]" aria-label="map" id="datawrapper-chart-aGLUD" src="https://datawrapper.dwcdn.net/aGLUD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="583"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-*Not Russia could not be added but the total number of goals was 1654
-
-*Note Every league had a diffrent amount of games accounted for in the season so this is not the best way to see who had the most goals. So I decided to get the averages.
+Note Every league had a diffrent amount of games accounted for in the season so this is not the best way to see who had the most goals. So I decided to get the averages.
 
 This was the result for the avearge goals per game in the leagues through seasons 2016-2020.
 
@@ -87,7 +81,7 @@ This was the result for the maximum goals scored in one game through seasons 201
 
 With this data we have a better Idea of the Goal Data among the European League throughout the 5 seasons. However its importnat to note that not all of the leagues were accounted for every year. So the Sum of leagues is not the best Data. From all the games documented in each league for the 5 seasons (if the legue is recorded) the goal average per game is shown in the data. And from all of the games documented during the 5 seasons the highest score was 11 goals. 
 
-### Italia Seria A Stats
+### Italia Serie A Stats
 
 #### WHO IS THE LEADER
 
