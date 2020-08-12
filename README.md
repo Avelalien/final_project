@@ -1,6 +1,6 @@
 # Final Project 124: Analyzing Soccer Predictions
-
-## By Arianna Velasco
+## A data set predicting multiple club matches from seasons 2016-2020.
+### By Arianna Velasco
 
 I got my data from FiveThirtyEight, under Club Soccer Predictions. It has an info button which explains how the data labels work and it has a download button where you can download the csv file.
 Original [CSV Table](https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv)
@@ -89,7 +89,7 @@ Now I want to look closely at a single ligue - I decided to choose the Italia Se
 
 They have seasons 2016 to 2019 but i will be looking at season 2019-2020
 
-First i wanted to see who were the stronger teams right off the bat. To do that SPI which stands for the teams overall strength it was coming with during the match. I decided to do SPI1 first.
+First i wanted to see who were the stronger teams right off the bat. To do that SPI which stands for the teams overall strength it was coming with before the match. I decided to do SPI1 first.
 
 Juventus had the highest SPI1 by Far.
 
