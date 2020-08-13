@@ -236,7 +236,12 @@ There are currently 8 teams and their latest SP1:
 * Lyon 72.9
 
 *note values are rounded
-The Next Matches are:
+
+
+
+This Year, due to COVID-19 the tournament had to be shortened, therefore teams will only play one game for each stage.
+
+The Next Matches (Which will be played in Lisbon, Portugal for neutrality) are:
 
 Paris Saint-Germaine vs Atlanta with a 37% chance of victory for Atlanta and 63% for Paris 
 
